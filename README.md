@@ -1,1 +1,4 @@
 # Projet-Robohelp
+C'est un projet réalisé dans le cadre d'un cours sur le logiciel Adobe RoboHelp (Master 2 Communication Technique Multilingue à l'Université Paris Cité). L'objectif était de créer un WebHelp sur un sujet de notre choix. J'ai conçu une aide en ligne destinée aux personnes souhaitant préparer une fondue chinoise à la maison. Grâce à ce projet, je maîtrise les différentes fonctionnalités de RoboHelp. (Note : 19/20)
+
+This project was completed as part of a course on Adobe RoboHelp software, within the Master's program in Multilingual Technical Communication at Université Paris Cité. The objective was to create a WebHelp on a topic of our choice. I developed an online help guide for people who want to make Chinese hot pot at home. Through this project, I became proficient in using the various features of RoboHelp. (Grade: 19/20)
