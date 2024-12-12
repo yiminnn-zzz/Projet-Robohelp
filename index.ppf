@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ppfml version="2.00" project="FondueChinoise" type="4">
+  <contextmap>
+    
+  </contextmap>
+  <topiclist defaulttopic="First_Topic.htm">
+    
+    <topic>
+      First_Topic.htm
+    </topic>
+    
+    <topic>
+      ingrédients.htm
+    </topic>
+    
+    <topic>
+      équipement.htm
+    </topic>
+    
+    <topic>
+      Préparation.htm
+    </topic>
+    
+  </topiclist>
+  <filenamemap>
+    <filenameentry moniker="wh_languagetype">
+      <filename>
+        fr_FR
+      </filename>
+    </filenameentry>
+    <filenameentry moniker="wh_stoplist">
+      <filename>
+        whxdata/stopwords.xml
+      </filename>
+    </filenameentry>
+    <filenameentry moniker="startpage">
+      <filename>
+        index.htm
+      </filename>
+    </filenameentry>
+        
+  </filenamemap>
+</ppfml>

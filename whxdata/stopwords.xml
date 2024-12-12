@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stopwords>
+
+  <wd name="a" />
+
+  <wd name="à" />
+
+  <wd name="et" />
+
+  <wd name="est" />
+
+  <wd name="le" />
+
+  <wd name="la" />
+
+  <wd name="les" />
+
+  <wd name="de" />
+
+  <wd name="du" />
+
+  <wd name="des" />
+
+  <wd name="un" />
+
+  <wd name="une" />
+
+  <wd name="tout" />
+
+  <wd name="toute" />
+
+  <wd name="tous" />
+
+  <wd name="toutes" />
+
+  <wd name="sont" />
+
+  <wd name="avec" />
+
+  <wd name="dans" />
+
+  <wd name="mais" />
+
+  <wd name="par" />
+
+  <wd name="aussi" />
+
+  <wd name="où" />
+
+  <wd name="quand" />
+
+  <wd name="après" />
+
+  <wd name="autre" />
+
+  <wd name="être" />
+
+  <wd name="parce" />
+
+  <wd name="été" />
+
+  <wd name="etc." />
+
+  <wd name="déjà" />
+
+  <wd name="entre" />
+
+  <wd name="pouvoir" />
+
+  <wd name="peux" />
+
+  <wd name="peut" />
+
+  <wd name="pouvons" />
+
+  <wd name="pouvez" />
+
+  <wd name="peuvent" />
+
+  <wd name="faire" />
+
+  <wd name="fait" />
+
+  <wd name="ne" />
+
+  <wd name="chaque" />
+
+  <wd name="soit" />
+
+  <wd name="pour" />
+
+  <wd name="avoir" />
+
+  <wd name="ont" />
+
+  <wd name="ensuite" />
+
+  <wd name="ici" />
+
+  <wd name="comment" />
+
+  <wd name="si" />
+
+  <wd name="n&#39;est" />
+
+  <wd name="pas" />
+
+  <wd name="il" />
+
+  <wd name="peut-être" />
+
+  <wd name="ai" />
+
+  <wd name="as" />
+
+  <wd name="avons" />
+
+  <wd name="avez" />
+
+  <wd name="plus" />
+
+  <wd name="davantage" />
+
+  <wd name="ils" />
+
+  <wd name="ce" />
+
+  <wd name="cet" />
+
+  <wd name="cette" />
+
+  <wd name="ceux" />
+
+  <wd name="ces" />
+
+  <wd name="parmi" />
+
+  <wd name="devoir" />
+
+  <wd name="dois" />
+
+  <wd name="doit" />
+
+  <wd name="devons" />
+
+  <wd name="devez" />
+
+  <wd name="doivent" />
+
+  <wd name="besoin" />
+
+  <wd name="aucun" />
+
+  <wd name="aucune" />
+
+  <wd name="obtenir" />
+
+  <wd name="en" />
+
+  <wd name="ligne" />
+
+  <wd name="sur" />
+
+  <wd name="ou" />
+
+  <wd name="autre" />
+
+  <wd name="ok" />
+
+  <wd name="plutôt" />
+
+  <wd name="objet" />
+
+  <wd name="même" />
+
+  <wd name="voir" />
+
+  <wd name="ainsi" />
+
+  <wd name="certains" />
+
+  <wd name="certaines" />
+
+  <wd name="tel" />
+
+  <wd name="telle" />
+
+  <wd name="tels" />
+
+  <wd name="telles" />
+
+  <wd name="celui" />
+
+  <wd name="celle" />
+
+  <wd name="leur" />
+
+  <wd name="sans" />
+
+  <wd name="eux" />
+
+  <wd name="utiliser" />
+
+  <wd name="utilisation" />
+
+  <wd name="usage" />
+
+  <wd name="utilisé" />
+
+  <wd name="usagé" />
+
+  <wd name="l&#39;intérieur" />
+
+  <wd name="l&#39;extérieur" />
+
+  <wd name="utilisant" />
+
+  <wd name="vous" />
+
+  <wd name="étais" />
+
+  <wd name="était" />
+
+  <wd name="étaient" />
+
+  <wd name="nous" />
+
+  <wd name="veux" />
+
+  <wd name="veut" />
+
+  <wd name="voulons" />
+
+  <wd name="voulez" />
+
+  <wd name="veulent" />
+
+  <wd name="façon" />
+
+  <wd name="quoi" />
+
+  <wd name="soit" />
+
+  <wd name="n&#39;importe" />
+
+  <wd name="lequel" />
+
+  <wd name="laquelle" />
+
+  <wd name="lesquelles" />
+
+  <wd name="lesquels" />
+
+  <wd name="vouloir" />
+
+  <wd name="avec" />
+
+  <wd name="l&#39;intérieur de" />
+
+  <wd name="maintenant" />
+
+  <wd name="moins" />
+
+  <wd name="que" />
+
+  <wd name="tu" />
+
+  <wd name="ton" />
+
+  <wd name="vôtre" />
+
+  <wd name="1" />
+
+  <wd name="2" />
+
+  <wd name="3" />
+
+  <wd name="4" />
+
+  <wd name="5" />
+
+  <wd name="6" />
+
+  <wd name="7" />
+
+  <wd name="8" />
+
+  <wd name="9" />
+
+  <wd name="0" />
+
+</stopwords>
